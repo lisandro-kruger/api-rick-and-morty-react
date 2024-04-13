@@ -1,5 +1,7 @@
 # Proyecto de Rick y Morty
 
+Link: [api-rick-and-morty-react-rosy.vercel.app](https://api-rick-and-morty-react-rosy.vercel.app/)
+
 ## Descripción
 Este es un proyecto de React que utiliza la API de Rick y Morty para mostrar información sobre los personajes de la serie. El proyecto utiliza Bootstrap para los estilos y presenta una lista de personajes con paginación.
 
